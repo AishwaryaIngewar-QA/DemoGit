@@ -4,10 +4,14 @@ public class MainMethodOverload {
 	
 	public void main(int x)
 	{
+		System.out.println("ChangeGit");
+
 		System.out.println(x);
 	}
 	public void main(int x, int y)
 	{
+		System.out.println("ChangeGit");
+
 		System.out.println(x+y);
 	}
 
