@@ -8,6 +8,11 @@ public class ArrayListExample {
 
 		System.out.println("Practice Git");
 		System.out.println("Practice Git---DemoGit");
+		//after commit
+		System.out.println("Practice Git1");
+		System.out.println("Practice Git2");
+		System.out.println("Practice Git3");
+
 
 	//	ArrayList<String> list = new ArrayList<String>();
 		ArrayList list= new ArrayList();
