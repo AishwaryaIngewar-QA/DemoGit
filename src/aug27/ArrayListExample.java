@@ -6,6 +6,9 @@ public class ArrayListExample {
 
 	public static void main(String[] args) {
 
+		System.out.println("Practice Git");
+		System.out.println("Practice Git---DemoGit");
+
 	//	ArrayList<String> list = new ArrayList<String>();
 		ArrayList list= new ArrayList();
 		list.add("abc");
